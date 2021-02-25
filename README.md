@@ -1,14 +1,5 @@
 # ElevateAIO Mockup Site
 
-### Info ℹ️
-
-Languages: 
-* HTML
-* CSS
-* JavaScript
-
-
- - 
 > This site was made as a test site until the updated ElevateAIO **[site](https://download.elevateaio.com/)** was created. 
 > Below is a GIF of some of the features of the site: 
 
